@@ -14,6 +14,8 @@ display (48 by 12 pixels, sometimes these displays have blocks of
 different LEDs so they look multicolour even though they are not
 addressable).
 
+[Download the release and import the Zip in the library manager](https://github.com/kigyui/LED1248/releases/)
+
 There are a number of sellers of these displays on various
 marketplaces, and they come and go quite often. You can usually figure
 out if it will work with this library by looking at the app they ask
